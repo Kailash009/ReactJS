@@ -1,0 +1,10 @@
+npm install --save bootstrap
+Money Minded Mandeep
+C.A Rachna Randey
+Labour Law Advisor
+ET Money
+>> npx helps you to use any package for one time, without downloading it.
+>> npm is like you have purchased create react app.
+--------------------------------------------------------------------------
+
+
